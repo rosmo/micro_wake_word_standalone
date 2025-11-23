@@ -10,6 +10,6 @@ tags:
 requires_idf_version: ">=5.3"
 
 dependencies:
-  espressif/esp-tflite-micro: "*"
+  espressif/esp-tflite-micro: "1.2.0"
   ESPMicroSpeechFeatures:
     git: https://github.com/0xD34D/ESPMicroSpeechFeatures.git
